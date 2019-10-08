@@ -17,6 +17,6 @@ const styles = StyleSheet.create({
     headertext:{
         fontSize: 25,
         fontWeight: 'bold',
-        color: '#3f4e66',
+        color: 'tomato',
     },
 });
